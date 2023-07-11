@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+torch_geometric
+matplotlib
+networkx
+pandas
+torch 
+numpy
