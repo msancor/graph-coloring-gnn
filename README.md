@@ -2,7 +2,7 @@
 
 This is a repository made for the exam of Advanced Machine Learning for Physics of the course of MSc. in Physics at the Sapienza Universiy of Rome. The purpose of the notebook is recreate the results obtained in the article: "Graph Coloring with Physics-Inspired Graph Neural Networks" (https://doi.org/10.48550/arXiv.2202.01606) and should you use any of the methods presented here it should be done by citing their article:
 
-```
+```latex
 @article{Schuetz_2022,
 	doi = {10.1103/physrevresearch.4.043131},
   
