@@ -26,7 +26,7 @@ This is a repository made for the exam of Advanced Machine Learning for Physics 
 ```
 
 The data used to train the GNN models is not included in the repository and can be downloaded within the notebook as follows:
-```
+```python
 import os
 
 # Here we create a directory for storing the input data
